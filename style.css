@@ -1,0 +1,150 @@
+body{
+    font-family:'Merriweather', serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.color-span{
+    color: rgb(248, 97, 142);
+}
+
+.section-1st{
+    display: flex;
+}
+.div-width-1st{
+    width: 50%;
+    padding-left:80px;
+    
+}
+.stay-focused{
+    padding-top: 90px;
+}
+.div-width-1st img{
+    width: 60%;
+    margin-left: 100px;
+}
+.btn{
+    background-color: tomato;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.section-2nd{
+   text-align: center;
+   margin-top: 100px;
+}
+
+.section-2nd-sub{
+    display: flex;
+    width: 90%;
+    margin-left: 50px;   
+}
+
+.mission{
+    background-color: rgb(241, 233, 241);
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    margin: 0 20px;
+}
+.mission img{
+    width: 150px;   
+}
+.vission{
+    background-color: rgb(238, 217, 238);
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    margin: 0 20px;
+}
+.vission img{
+    width: 150px;
+}
+.goals{
+    background-color: rgb(218, 240, 238);
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    margin: 0 20px;
+}
+.goals img{
+    width: 150px;
+}
+
+
+.section-3rd{
+    display: flex;
+    margin: 100px;
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.div-width-3rd{
+    width: 50%;
+    text-align: left;
+
+}
+.div-width-3rd img{
+    width: 80%;
+    border-radius: 10px;
+}
+
+
+
+.section-4th{
+    display: flex;
+    margin: 100px;
+    margin-left: 80px;
+}
+.div-width-4th{
+    width: 50%;
+    text-align: left;
+
+}
+.div-width-4th img{
+    width: 80%;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+
+
+.section-5th{
+    text-align: center;
+    margin: 100px;
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.section-5th-sub{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.div-width-5th{
+    width: 50%;
+    text-align: left;
+
+}
+.div-width-5th img{
+    width: 50%;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+
+footer{
+    color: white;
+    padding: 20px 0;
+    background-color: black;
+    text-align: center;
+}
+.ftr-span{
+    color: red;
+}
+
